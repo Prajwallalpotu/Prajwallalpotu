@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://prajwallalpotu.github.io/Prajwal-Lalpotu--Porfolio/" target="_blank" style="text-decoration: none; padding: 10px; background-color: #3498db; color: #fff; border-radius: 5px; display: inline-block;">Check out my Portfolio</a>
+  <a href="https://prajwallalpotu.github.io/Prajwal-Lalpotu--Portfolio/" target="_blank" style="text-decoration: none; padding: 10px; background-color: #3498db; color: #fff; border-radius: 5px; display: inline-block;">Check out my Portfolio</a>
 </div>
 <br><br>
 
